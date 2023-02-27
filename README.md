@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python, SQL, Node, React.
 - 💞️ I’m looking to collaborate on Any area I can help
 - 📫 johnniegiacomelli@gmail.com
-- 👨‍💻 LinkeID -> https://www.linkedin.com/in/analistaredes/
+- 👨‍💻 LinkedIn -> https://www.linkedin.com/in/analistaredes/
 - 📱  Whatsapp -> 55 55 9 9607 8831
 
 <!---
