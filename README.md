@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-end, Back-end.
 - 🌱 I’m currently learning JavaScript, Python, SQL, Node, React.
 - 💞️ I’m looking to collaborate on Any area I can help
+- 👨‍ www.johnnie.com.br
 - 📫 johnniegiacomelli@gmail.com
 - 👨‍💻 LinkedIn -> https://www.linkedin.com/in/analistaredes/
 - 📱  Whatsapp -> 55 55 9 9607 8831
